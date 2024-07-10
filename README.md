@@ -8,10 +8,10 @@
 
 ## vsCode 플러그인 설치하기
 
-![alt text](image.png)
+![alt text](./images/image.png)
 
 -검색창에 입력 : 'Korea launguage Pakck'
-![alt text](image-1.png')
+![alt text](./images/image-1.png')
 -'Prettire -Code fromatter
 -'Material Icon Themeg
 
